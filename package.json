@@ -3,6 +3,8 @@
   "license": "UNLICENSED",
   "version": "0.0.0",
   "dependencies": {
+    "@material-ui/icons": "^4.9.1",
+    "@types/enzyme-adapter-react-16": "^1.0.6",
     "nexus": "0.26.1",
     "nexus-plugin-prisma": "^0.18.1"
   },
